@@ -10,6 +10,7 @@
 ## Installation <a name="installation"></a>
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+If running on windows, you can consoder running on a virtualenv using WSL2.
 
 ## Project Motivation<a name="motivation"></a>
 
